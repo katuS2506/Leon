@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    background-color:yellow;
+}
+header {
+    text-align:center;
+    background-color:blue;
+    color:yellow;
+}
+p img {
+    text-align:center;
+    width:120px;
+ height:100px;
+}
+h2{
+    text-align:center;
+}
+.leon{
+    width:300px;
+ height:200px;
+}
+p, ul {
+    font-size: 20px;
+    list-style:url("https://learn.algoritmika.org/uploads/2021/04/favicon-32x32_1619338258.png") ;
+}
+
+nav a{
+    border:1px solid rgba(5, 231, 5, 0.295);
+    background-color:rgba(5, 231, 5, 0.295);
+    color:black;
+    padding:10px;
+    margin:60px;
+    font-size:80px;
+}
+p {
+    font-size:40px;
+    
+}
+h2{
+    font-size:120px;
+}
+h3{
+    font-size: 110px;
+}
+nav {
+    margin: 40px;
+}
+h3, p {
+    margin: 40px;
+}
